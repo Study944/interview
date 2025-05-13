@@ -25,9 +25,6 @@ import org.springframework.web.multipart.MultipartFile;
 
 /**
  * 文件接口
- *
- * @    <a href="https://github.com/lizxc"> </a>
- * @  <a href="https://zxc.icu">  </a>
  */
 @RestController
 @RequestMapping("/file")
